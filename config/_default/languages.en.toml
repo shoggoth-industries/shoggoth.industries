@@ -11,5 +11,5 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "SHOGGOTH_INDUSTRIES_LogoWithBlackBack.png"
 secondaryLogo = "SHOGGOTH_INDUSTRIES_LogoWithWhiteBack.png"
-description = "Shoggoth Industries is a simple industry's IOC provider. This blog will provide some insights and articles about OT security."
-author = { bio = "Fortify Your Critical Infrastructure: Tailored Cyber Threat Intelligence for ICS and SCADA Systems.", headline = "Fortify Your Critical Infrastructure: Tailored Cyber Threat Intelligence for ICS and SCADA Systems.", name = "Shoggoth Industries" }  
+description = "Shoggoth Industries is a simple IOC/IOV provider."
+author = { bio = "", headline = "", name = "Shoggoth Industries" }  
