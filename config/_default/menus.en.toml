@@ -12,7 +12,7 @@ identifier = "6YTPPWjBde"
 weight = 9999
 
 [[main]]
-name = "Daily Posts"
+name = "Daily Reports"
 pre = "rss"
 pageRef = "daily-posts"
 identifier = "ocVC7kT188"
@@ -20,3 +20,15 @@ weight = 9999
 
 [[footer]]
 none = "none"
+
+[[footer]]
+name = "Bluesky"
+url = "https://bsky.app/profile/shoggot-indus.bsky.social"
+identifier = "64Rv39iEZy"
+weight = 9999
+
+[[footer]]
+name = "X.com"
+url = "https://x.com/Shoggoth_Indus"
+identifier = "fjfqO7DBs2"
+weight = 9999

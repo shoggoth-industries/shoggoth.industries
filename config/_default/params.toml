@@ -1,4 +1,4 @@
-colorScheme = "slate"
+colorScheme = "fire"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -9,11 +9,12 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 smartTOC = true
-defaultBackgroundImage = "logo2.png"
+defaultBackgroundImage = "steve-johnson-jmOC9wKEfnI-unsplash.jpg"
 smartTOCHideUnfocusedChildren = true
+defaultFeaturedImage = "SHOGGOTH_INDUSTRIES_LogoWithBlackBack.png"
 
 [header]
-layout = "fixed-fill-blur"
+layout = "basic"
 
 [footer]
 showMenu = true
@@ -23,15 +24,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = true
-showRecentItems = "2"
+showRecentItems = "6"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
-homepageImage = "logo.png"
+layoutBackgroundBlur = true
+homepageImage = "steve-johnson-jmOC9wKEfnI-unsplash.jpg"
 
 [article]
 showDate = true
@@ -40,10 +41,10 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -51,12 +52,15 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
-showTaxonomies = false
-showAuthorsBadges = false
+showTaxonomies = true
+showAuthorsBadges = true
 showWordCount = true
-showZenMode = false
+showZenMode = true
+heroStyle = "background"
+showRelatedContent = true
+relatedContentLimit = "3"
 
 [list]
 showHero = false
@@ -67,7 +71,7 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = true
 cardView = true
@@ -94,7 +98,7 @@ showLikes = false
 showTableOfContents = true
 groupByYear = false
 cardView = false
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 
 [firebase]
 

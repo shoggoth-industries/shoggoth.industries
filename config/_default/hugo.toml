@@ -6,7 +6,7 @@ buildDrafts = false
 buildFuture = false
 enableEmoji = true
 googleAnalytics = ""
-baseURL = "http://blog.shoggoth.industries"
+baseURL = "https://blog.shoggoth.industries"
 
 [pagination]
 pagerSize = 100
