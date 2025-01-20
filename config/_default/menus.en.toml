@@ -1,0 +1,22 @@
+[[main]]
+none = "none"
+
+[[main]]
+none = "none"
+
+[[main]]
+name = "Articles"
+pre = "lightbulb"
+pageRef = "articles"
+identifier = "6YTPPWjBde"
+weight = 9999
+
+[[main]]
+name = "Daily Posts"
+pre = "rss"
+pageRef = "daily-posts"
+identifier = "ocVC7kT188"
+weight = 9999
+
+[[footer]]
+none = "none"
