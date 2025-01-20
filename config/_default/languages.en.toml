@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Security Blog"
+title = "Shoggoth Industries - Security Blog"
 
 [params]
 displayName = "EN"
@@ -12,4 +12,4 @@ dateFormat = "2 January 2006"
 logo = "SHOGGOTH_INDUSTRIES_LogoWithBlackBack.png"
 secondaryLogo = "SHOGGOTH_INDUSTRIES_LogoWithWhiteBack.png"
 description = "Shoggoth Industries is a simple industry's IOC provider. This blog will provide some insights and articles about OT security."
-author = { bio = "Fortify Your Critical Infrastructure: Tailored Cyber Threat Intelligence for ICS and SCADA Systems.", headline = "Fortify Your Critical Infrastructure: Tailored Cyber Threat Intelligence for ICS and SCADA Systems.", name = "Shoggoth Industries" }
+author = { bio = "Fortify Your Critical Infrastructure: Tailored Cyber Threat Intelligence for ICS and SCADA Systems.", headline = "Fortify Your Critical Infrastructure: Tailored Cyber Threat Intelligence for ICS and SCADA Systems.", name = "Shoggoth Industries" }  
