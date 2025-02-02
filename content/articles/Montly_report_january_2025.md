@@ -7,7 +7,7 @@ tags: [repport, monthly]
 
 # Monthly reort: 2025-01
 
-this is the 1st monthly report , it is based on the daily reports , and takes up the global structure of the daily reporting , in total , we had about 20k requests between january 10th and 31st , on half a dozen honeypot , if you want to access the log goal , please contact us at 
+This is the 1st monthly report , it is based on the daily reports , and takes up the global structure of the daily reporting , in total , we had about 20k requests between january 10th and 31st , on half a dozen honeypot , if you want to access the log goal , please contact us at : social@shoggoth.industries
 
 - [Botnet dropper behaviour](#botnet_dropper_behaviour)
 - [List of source IP addresses](#list_of_source_ip_addresses)
