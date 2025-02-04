@@ -2,7 +2,11 @@
 none = "none"
 
 [[main]]
-none = "none"
+name = "Database"
+pre = "list"
+pageRef = "database"
+identifier = "6LGCCJwOqr"
+weight = 9999
 
 [[main]]
 name = "Articles"
