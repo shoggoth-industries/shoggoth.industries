@@ -5,7 +5,7 @@ desciption: "List of all user agents related to a request receive on our system 
 tags: [database, user_agent]
 ---
 
-List of all user agents related to a request receive on our system sort by occurence.
+
 
 |      |   number_of_occurence | user_agent                                                                                                                                                                                                                                                                                     |
 |-----:|----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
