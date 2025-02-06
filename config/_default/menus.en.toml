@@ -1,5 +1,10 @@
 [[main]]
-none = "none"
+name = "Grafana"
+pre  = "grafana"
+url = "http://147.93.55.85:3000"
+identifier = "pvGC9jLsqD"
+weight = 9999
+
 
 [[main]]
 name = "Database"
