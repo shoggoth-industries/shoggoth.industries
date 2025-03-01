@@ -40,7 +40,7 @@ Currently, Malware Hunter (MH) seems to test only about a dozen C2s. They are no
 
 The other compagny found in the log is BinaryEdge (BE)
 
-![Decode base 64 with cyberchef.](/content/articles/Hunt_the_Hunter_picture/shodan_BE.png)
+![Decode base 64 with cyberchef.](/content/articles/Hunt_the_Hunter_picture/shodan_BH.png)
 
 ## Data Refining
 
