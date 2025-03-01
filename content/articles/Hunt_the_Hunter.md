@@ -1,5 +1,5 @@
 ---
-title: "Report: 2025-03-1 "
+title: "Hunt the Hunter"
 date: 2025-03-01
 desciption: "Detect IP who's hunting zombies by sending them True C2 request"
 tags: [CTI, virustotal, C2, shodan]
