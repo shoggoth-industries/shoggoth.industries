@@ -1,8 +1,8 @@
 
 ---
-title: "User_agent database"
+title: "request database"
 date: 2025-03-16
-desciption: "List of all user agents related to a request receive on our system sort by occurence."
+desciption: "List of all request related to a request receive on our system sort by occurence."
 tags: [database, request]
 ---
 
