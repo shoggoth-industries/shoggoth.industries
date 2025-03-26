@@ -1,14 +1,14 @@
 [[main]]
 name = "Grafana"
 pre  = "grafana"
-url = "http://147.93.55.85:8080"
+url = "http://147.93.55.85:3000"
 identifier = "agRN9uWdbO"
 weight = 9999
 
 [[main]]
 name = "OpenCTI"
 pre  = "opencti"
-url = "http://147.93.55.85:3000"
+url = "http://147.93.55.85:8080"
 identifier = "pvGC9jLsqD"
 weight = 9999
 
