@@ -1,8 +1,8 @@
 [[main]]
-name = "RSS"
-pre  = "rss"
+name = " "
+pre  = "rss_feed"
 url = "https://rss.app/feeds/2RhI8LFOMS3GqWUt.xml"
-identifier = "agRN2uWdbO"
+identifier = "ntEa1hnqoB"
 weight = 9999
 
 [[main]]
