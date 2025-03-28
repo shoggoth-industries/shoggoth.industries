@@ -1,4 +1,11 @@
 [[main]]
+name = "RSS"
+pre  = "rss"
+url = "https://rss.app/feeds/2RhI8LFOMS3GqWUt.xml"
+identifier = "agRN2uWdbO"
+weight = 9999
+
+[[main]]
 name = "Grafana"
 pre  = "grafana"
 url = "http://147.93.55.85:3000"
